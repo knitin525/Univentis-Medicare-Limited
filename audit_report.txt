@@ -1,0 +1,225 @@
+﻿=== PRODUCT AUDIT REPORT ===
+
+--- IMAGES WITH NO PRODUCT ENTRY (have image, missing from product-data.js) ---
+Count: 211
+  [NO ENTRY] assets/img/Innoventis/Oravent 15gm Cream.webp
+  [NO ENTRY] assets/img/Innoventis/Oravent 20x10 Tablets.webp
+  [NO ENTRY] assets/img/Innoventis/Oravent-Plus 5gm Cream.webp
+  [NO ENTRY] assets/img/Innoventis/Xerominic Tablets (Pink).webp
+  [NO ENTRY] assets/img/Ultima/Acipox 15gm Cream.webp
+  [NO ENTRY] assets/img/Ultima/Acipox- 400 10x10 Tablets.webp
+  [NO ENTRY] assets/img/Ultima/Acipox- 800 10x10 General.webp
+  [NO ENTRY] assets/img/Ultima/Actigrain-5 20x10 Tablets.webp
+  [NO ENTRY] assets/img/Ultima/Amlovent-5 20x14 Tablets.webp
+  [NO ENTRY] assets/img/Ultima/Apilactin Plus 30ml Drops.webp
+  [NO ENTRY] assets/img/Ultima/Avizact Injection.webp
+  [NO ENTRY] assets/img/Ultima/BILOTRA-40 10x1x10 Tablets.webp
+  [NO ENTRY] assets/img/Ultima/BISOVENT 2.5 tablets 20x10.webp
+  [NO ENTRY] assets/img/Ultima/Bactofix-AZ 10x1x10 Tablets.webp
+  [NO ENTRY] assets/img/Ultima/Bactofix-O 30ml Tab.webp
+  [NO ENTRY] assets/img/Ultima/Bactofix-o 30ml Dry Syrup.webp
+  [NO ENTRY] assets/img/Ultima/Bactopraz S 1 5 gm  Injection.webp
+  [NO ENTRY] assets/img/Ultima/Bilotra 60ml Oral Solution.webp
+  [NO ENTRY] assets/img/Ultima/Bisovent-5 20x10 Tablets.webp
+  [NO ENTRY] assets/img/Ultima/Buderon 10x5x2ml Respules.webp
+  [NO ENTRY] assets/img/Ultima/Buderon F  Respules 4x5x2ml.webp
+  [NO ENTRY] assets/img/Ultima/Candivent-B 15gm Cream.webp
+  [NO ENTRY] assets/img/Ultima/Capilate-P 30gm Cream.webp
+  [NO ENTRY] assets/img/Ultima/Cilarol-20 20x10 Tablets.webp
+  [NO ENTRY] assets/img/Ultima/Clarilite Cream 15gm Cream.webp
+  [NO ENTRY] assets/img/Ultima/Clindarol-300 10x1x10 Capsules.webp
+  [NO ENTRY] assets/img/Ultima/Clobevent 15gm Cream.webp
+  [NO ENTRY] assets/img/Ultima/Clopivent-75 10x10 Tablets.webp
+  [NO ENTRY] assets/img/Ultima/Clopivent-A 150 10x10 Capsules.webp
+  [NO ENTRY] assets/img/Ultima/Coligut-L Capsule 10x1x10.webp
+  [NO ENTRY] assets/img/Ultima/Coligut-L Dry Syrup 30ml.webp
+  [NO ENTRY] assets/img/Ultima/Colivent 30ml Drop.webp
+  [NO ENTRY] assets/img/Ultima/Daophage-500 10x2x5 Tablets.webp
+  [NO ENTRY] assets/img/Ultima/Daophage-SR-1000 20x10Tablets.webp
+  [NO ENTRY] assets/img/Ultima/Dermovent-5 15gm Cream.webp
+  [NO ENTRY] assets/img/Ultima/Dilustone 30 N Capsules.webp
+  [NO ENTRY] assets/img/Ultima/Doloride-Cold 20x10 Tablets.webp
+  [NO ENTRY] assets/img/Ultima/Doloride-P 20x10 Tablets.webp
+  [NO ENTRY] assets/img/Ultima/Dolosaid-MP 60ml Suspension.webp
+  [NO ENTRY] assets/img/Ultima/Dolosaid-MP DS 60ml Suspension.webp
+  [NO ENTRY] assets/img/Ultima/Dolosaid-P Syrup 60ml.webp
+  [NO ENTRY] assets/img/Ultima/Dolosaid-RAB SR 10x1x10 Capsules.webp
+  [NO ENTRY] assets/img/Ultima/Dolosaid-Sp 20x10 Tablets.webp
+  [NO ENTRY] assets/img/Ultima/Donacortil-Tm 10x1x10 Capsules.webp
+  [NO ENTRY] assets/img/Ultima/Doxivent-Lb 20x10 Capsules.webp
+  [NO ENTRY] assets/img/Ultima/Duosma Respules 4x5x2 5 ml.webp
+  [NO ENTRY] assets/img/Ultima/Eminta-PLUS 10x1x10 Capsules.webp
+  [NO ENTRY] assets/img/Ultima/Esovent DSR Capsules 10x1x10.webp
+  [NO ENTRY] assets/img/Ultima/Esovent IT 10x10 Tablets.webp
+  [NO ENTRY] assets/img/Ultima/Esovent-Lsr 10x1x10 Capsules.webp
+  [NO ENTRY] assets/img/Ultima/Farogard-200 10x1x6 Tablets.webp
+  [NO ENTRY] assets/img/Ultima/Farogrd Dry Syrup 30ml.webp
+  [NO ENTRY] assets/img/Ultima/Fepadol-120 60ml Syrup.webp
+  [NO ENTRY] assets/img/Ultima/Fepadol-125 Susp 60ml.webp
+  [NO ENTRY] assets/img/Ultima/Fepadol-240 60ml Syrup.webp
+  [NO ENTRY] assets/img/Ultima/Ferivent Inj 100mg-5ml 5x1x5ml.webp
+  [NO ENTRY] assets/img/Ultima/Ferivent-Z 10x2x15 Capsules.webp
+  [NO ENTRY] assets/img/Ultima/Flupress-20 10x2x15caps Capsules.webp
+  [NO ENTRY] assets/img/Ultima/Flutigra Respules for Inhalation 10x5x2ml.webp
+  [NO ENTRY] assets/img/Ultima/Gabavent-300 10x10 Capsules.webp
+  [NO ENTRY] assets/img/Ultima/Gasfiz Raft 150ml Syrup.webp
+  [NO ENTRY] assets/img/Ultima/Gastovent-Dsr 20x10 Capsules.webp
+  [NO ENTRY] assets/img/Ultima/Gastovent-Lsr 10x1x10 Capsules.webp
+  [NO ENTRY] assets/img/Ultima/Glipra-1 10x10 Tablets.webp
+  [NO ENTRY] assets/img/Ultima/Glipra-2 10x10 Tablets.webp
+  [NO ENTRY] assets/img/Ultima/Ibuvent-Plus 20x20 Tablets.webp
+  [NO ENTRY] assets/img/Ultima/Indovent-25 20x10 Capsules.webp
+  [NO ENTRY] assets/img/Ultima/Indovent-Sr 20x10 Capsules.webp
+  [NO ENTRY] assets/img/Ultima/Insta Play 48x1x3n Condom.webp
+  [NO ENTRY] assets/img/Ultima/Insta Play Condom Chocolate Extra Dotted 48x3N.webp
+  [NO ENTRY] assets/img/Ultima/Insta Play Condom Chocolate Ultra Thin 3N.webp
+  [NO ENTRY] assets/img/Ultima/Insta Play Condom Chocolate Ultra Thin 48x3N.webp
+  [NO ENTRY] assets/img/Ultima/Insta Play Condom Strawberry Extra Dotted 48x3N.webp
+  [NO ENTRY] assets/img/Ultima/Insta Play Condom Strawberry Extra Dotted.webp
+  [NO ENTRY] assets/img/Ultima/Insta Play Strawberry Extra Time Condom 3N.webp
+  [NO ENTRY] assets/img/Ultima/Insta Play Strawberry Extra Time Condom 48x3N.webp
+  [NO ENTRY] assets/img/Ultima/Insta Play Strawberry Ultra Thin  Condom.webp
+  [NO ENTRY] assets/img/Ultima/Itromax-100 10x1x10 Capsules.webp
+  [NO ENTRY] assets/img/Ultima/Itromax-200 10x1x10 Capsules.webp
+  [NO ENTRY] assets/img/Ultima/Itromax-SB-130mg 10x1x10 Capsules.webp
+  [NO ENTRY] assets/img/Ultima/Itromax-SB-65mg 10x1x10 Capsules.webp
+  [NO ENTRY] assets/img/Ultima/Ketojet 75g Soap.webp
+  [NO ENTRY] assets/img/Ultima/Levotramine-PLUS 20x10 Tablets.webp
+  [NO ENTRY] assets/img/Ultima/Lipivent-40mg 8x5x10 Tablets.webp
+  [NO ENTRY] assets/img/Ultima/Lipivent-Gold 10 10x15 Capsules.webp
+  [NO ENTRY] assets/img/Ultima/Lipivent-Gold 20 10x15 Capsules.webp
+  [NO ENTRY] assets/img/Ultima/Losaride-50 20x10 Tablets.webp
+  [NO ENTRY] assets/img/Ultima/Losaride-AM 2x5x10 Tablets.webp
+  [NO ENTRY] assets/img/Ultima/Lulinaz spary 30ml.webp
+  [NO ENTRY] assets/img/Ultima/METHOCORT 500mg Injecton.webp
+  [NO ENTRY] assets/img/Ultima/MOXILANTA CV Droper 10ml.webp
+  [NO ENTRY] assets/img/Ultima/Megadron 16 20x14 Tablets.webp
+  [NO ENTRY] assets/img/Ultima/Methocort 2ml Injection 02.webp
+  [NO ENTRY] assets/img/Ultima/Montiride FXA Tablets 10X1X10.webp
+  [NO ENTRY] assets/img/Ultima/Montiride-FXA 10x10 Tablets.webp
+  [NO ENTRY] assets/img/Ultima/Moxilanta-250 10x3x10  Capsules.webp
+  [NO ENTRY] assets/img/Ultima/Moxilanta-500 10x3x10  Capsules.webp
+  [NO ENTRY] assets/img/Ultima/Moxilanta-CV 228.5 10x1x10 Tablets.webp
+  [NO ENTRY] assets/img/Ultima/Moxilanta-CV 228.5 Dry Syrup 30ml.webp
+  [NO ENTRY] assets/img/Ultima/Moxilanta-CV 375 10x1x10 Tablets.webp
+  [NO ENTRY] assets/img/Ultima/Moxilanta-CV 457 10x1x10 Tablets.webp
+  [NO ENTRY] assets/img/Ultima/Moxilanta-CV 457 Dry Syrup 30ml.webp
+  [NO ENTRY] assets/img/Ultima/Moxilanta-CV 625 10x1x10 Tablets.webp
+  [NO ENTRY] assets/img/Ultima/Moxilanta-CV 625 10x1x6 Tablets.webp
+  [NO ENTRY] assets/img/Ultima/Mylabion 10x1x10 Capsules.webp
+  [NO ENTRY] assets/img/Ultima/Mylabion 200ml Syrup.webp
+  [NO ENTRY] assets/img/Ultima/Mylabion Syrup 100 ml.webp
+  [NO ENTRY] assets/img/Ultima/Mylabion-Plus 5x1x10 Capsules.webp
+  [NO ENTRY] assets/img/Ultima/Natadol-50mg 10x1x10 Tablets.webp
+  [NO ENTRY] assets/img/Ultima/Oftirol-200 Syrup Bottal.webp
+  [NO ENTRY] assets/img/Ultima/Oftirol-M 30ml Syrup.webp
+  [NO ENTRY] assets/img/Ultima/Oftirol-M 60ml Syrup.webp
+  [NO ENTRY] assets/img/Ultima/Oftirol-OZ Tablets 20x10.webp
+  [NO ENTRY] assets/img/Ultima/Omefiz 20x15 Capsules.webp
+  [NO ENTRY] assets/img/Ultima/Omefiz-D 20x15 Capsules.webp
+  [NO ENTRY] assets/img/Ultima/Omiup 20x15 Capsules.webp
+  [NO ENTRY] assets/img/Ultima/Omiup-D 20x15 Capsules.webp
+  [NO ENTRY] assets/img/Ultima/Ondilium 30ml Drop.webp
+  [NO ENTRY] assets/img/Ultima/Oravent 20x10 Tablets.webp
+  [NO ENTRY] assets/img/Ultima/Pantoraz-40 20x15 Tablets.webp
+  [NO ENTRY] assets/img/Ultima/Pantoraz-D 20x15 Tablets.webp
+  [NO ENTRY] assets/img/Ultima/Pantovent-Dsr 20x10 Capsules.webp
+  [NO ENTRY] assets/img/Ultima/Pantovent-Lsr 10x1x10 Capsules.webp
+  [NO ENTRY] assets/img/Ultima/Phylobron 10x10 Capsules.webp
+  [NO ENTRY] assets/img/Ultima/Piptavent 1.125 mg Injection.webp
+  [NO ENTRY] assets/img/Ultima/Piptavent 1.125mg Injection.webp
+  [NO ENTRY] assets/img/Ultima/Pregavent 75mg 10x10 Capsules.webp
+  [NO ENTRY] assets/img/Ultima/Pregavent-300 10x15 Capsules.webp
+  [NO ENTRY] assets/img/Ultima/Pregavent-D 75-20 10x10 Capsules.webp
+  [NO ENTRY] assets/img/Ultima/Pregavent-M 10x1x10 Capsules.webp
+  [NO ENTRY] assets/img/Ultima/Proditil CV 100+62.5 10x1x10 Dry Syrup.webp
+  [NO ENTRY] assets/img/Ultima/Proditil CV 100+62.5 10x1x10 Tablets.webp
+  [NO ENTRY] assets/img/Ultima/Proditil Drops 10ml.webp
+  [NO ENTRY] assets/img/Ultima/Proditil-100 30ml Dry Syrup.webp
+  [NO ENTRY] assets/img/Ultima/Proditil-50 30ml Dry Syrup.webp
+  [NO ENTRY] assets/img/Ultima/Proditil-CV Dry Syrup 30ml.webp
+  [NO ENTRY] assets/img/Ultima/Protiminta (Chocolate).webp
+  [NO ENTRY] assets/img/Ultima/Ranilium-O Combipack Injection.webp
+  [NO ENTRY] assets/img/Ultima/Rejuvital Gold Capsules 10x1x10.webp
+  [NO ENTRY] assets/img/Ultima/Rejuvital-EYE 10x1x10 Capsules.webp
+  [NO ENTRY] assets/img/Ultima/Rifavent 400 20x10 Tablets.webp
+  [NO ENTRY] assets/img/Ultima/Rozucard-Gold 10x1x10 Capsules.webp
+  [NO ENTRY] assets/img/Ultima/Rozucard-Gold-20 10x1x10 Capsules.webp
+  [NO ENTRY] assets/img/Ultima/Salazomax 500mg 10x2x10 Tablets.webp
+  [NO ENTRY] assets/img/Ultima/Sildostat-8 10x1x10 Capsules.webp
+  [NO ENTRY] assets/img/Ultima/Sildostat-D8 10x1x10 Capsules.webp
+  [NO ENTRY] assets/img/Ultima/Sinovent 10ml Spray.webp
+  [NO ENTRY] assets/img/Ultima/Sinovent 60ml Syrup.webp
+  [NO ENTRY] assets/img/Ultima/Sinovent Vapor 20x10 Capsules.webp
+  [NO ENTRY] assets/img/Ultima/Sinovent-Rub 25g.webp
+  [NO ENTRY] assets/img/Ultima/Skinbloom 24x1x15gm Cream.webp
+  [NO ENTRY] assets/img/Ultima/Skinbloom Facewash.webp
+  [NO ENTRY] assets/img/Ultima/Spapmovent 60ml Suspension.webp
+  [NO ENTRY] assets/img/Ultima/Spasmovent Drop 10ml.webp
+  [NO ENTRY] assets/img/Ultima/Sporivent-BD 375 10x10 Tablets.webp
+  [NO ENTRY] assets/img/Ultima/Telirol-Am 20x10 Tablets.webp
+  [NO ENTRY] assets/img/Ultima/Terbiride Cream 15g.webp
+  [NO ENTRY] assets/img/Ultima/Thyrovent 100mcg 10x100 Tablets.webp
+  [NO ENTRY] assets/img/Ultima/Thyrovent 25mcg 10x100 Tablets.webp
+  [NO ENTRY] assets/img/Ultima/Thyrovent 50mcg 10x100 Tablets.webp
+  [NO ENTRY] assets/img/Ultima/Thyrovent 75mcg 10x100 Tablets.webp
+  [NO ENTRY] assets/img/Ultima/Torigesic-Plus 5x3x15 Tablets.webp
+  [NO ENTRY] assets/img/Ultima/Tusston 35x10 Lozenges.webp
+  [NO ENTRY] assets/img/Ultima/Tusston Cough 12x10 Lozenges.webp
+  [NO ENTRY] assets/img/Ultima/Uriride-0-4mg 10x20 Capsules.webp
+  [NO ENTRY] assets/img/Ultima/Uriride-D 10x1x15 Capsules.webp
+  [NO ENTRY] assets/img/Ultima/Utispas-OF 10x10 Tablets.webp
+  [NO ENTRY] assets/img/Ultima/VENTORAN 2X PAIN SPRAY 35G.webp
+  [NO ENTRY] assets/img/Ultima/VenZolid Dry Syrup 100mg.webp
+  [NO ENTRY] assets/img/Ultima/Ventimox CV 1.2gm Injection.webp
+  [NO ENTRY] assets/img/Ultima/Ventimox CV 3-3g Dry Syrup 30ml.webp
+  [NO ENTRY] assets/img/Ultima/Ventimox CV DS Dry Syrup 30ml.webp
+  [NO ENTRY] assets/img/Ultima/Ventimox- CV 457 Dry Syrup 30ML.webp
+  [NO ENTRY] assets/img/Ultima/Ventimox-125DT 20x10 Tabletes.webp
+  [NO ENTRY] assets/img/Ultima/Ventimox-250mg 10x3x10 Capsules.webp
+  [NO ENTRY] assets/img/Ultima/Ventimox-500 10x2x10 Capsules.webp
+  [NO ENTRY] assets/img/Ultima/Ventimox-CV 1000 Tablet 10x1x10.webp
+  [NO ENTRY] assets/img/Ultima/Ventimox-CV 2-2gm Droper 10ml.webp
+  [NO ENTRY] assets/img/Ultima/Ventimox-CV 228-5 10x1x6 Tablets.webp
+  [NO ENTRY] assets/img/Ultima/Ventimox-CV 375 10x1x10 Tablets.webp
+  [NO ENTRY] assets/img/Ultima/Ventimox-Cv 10ml Drop.webp
+  [NO ENTRY] assets/img/Ultima/VentoPlex-L Syrup 100ml.webp
+  [NO ENTRY] assets/img/Ultima/VentoPlex-L Syrup 200ml.webp
+  [NO ENTRY] assets/img/Ultima/Ventocal D3 Softgel Capsules.webp
+  [NO ENTRY] assets/img/Ultima/Ventocal Joints Softgel 10x1x10 Capsules.webp
+  [NO ENTRY] assets/img/Ultima/Ventokast-LC Junior 20x10 Tablets.webp
+  [NO ENTRY] assets/img/Ultima/Ventokast-Lc 20x1x10 Tablets.webp
+  [NO ENTRY] assets/img/Ultima/Ventomycin 12gm-30ml.webp
+  [NO ENTRY] assets/img/Ultima/Ventomycin DS 12gm-30ml.webp
+  [NO ENTRY] assets/img/Ultima/Ventoran 10g Pain-Gel single.webp
+  [NO ENTRY] assets/img/Ultima/Ventoran MR 20x10 Tablets.webp
+  [NO ENTRY] assets/img/Ultima/Ventoran-P 10x2x10 Tablets Yellow PVC.webp
+  [NO ENTRY] assets/img/Ultima/Ventoran-P 10x2x10 Tablets.webp
+  [NO ENTRY] assets/img/Ultima/Ventoxol-L 60ml Syrup.webp
+  [NO ENTRY] assets/img/Ultima/Ventoxol-LS 15ml Drops.webp
+  [NO ENTRY] assets/img/Ultima/Voglivent-0-3 MD 20x10 Tablets.webp
+  [NO ENTRY] assets/img/Ultima/Voglivent-MG3 10x2x15 Tablets.webp
+  [NO ENTRY] assets/img/Ultima/Xiotil-125mg Dry Syrup.webp
+  [NO ENTRY] assets/img/Ultima/Zincominta 200ml Syrup.webp
+  [NO ENTRY] assets/img/Ultima/Zincominta-DT 4x5x10 Tablets.webp
+  [NO ENTRY] assets/img/Ultima/Zithroset XL Dry Syrup 100mg.webp
+  [NO ENTRY] assets/img/Ultima/Zithroset XL Dry Syrup 200mg.webp
+  [NO ENTRY] assets/img/Ultima/Zyfix 100 Dry Syrup 30ml.webp
+  [NO ENTRY] assets/img/Ultima/Zyfix 50 Dry Syrup 30ml.webp
+  [NO ENTRY] assets/img/Ultima/Zyfix O Dry Syrup 30ml.webp
+  [NO ENTRY] assets/img/Ultima/Zyfix-0 10x10 Tablets.webp
+  [NO ENTRY] assets/img/Ultima/Zyfix-100 20x10 Tablets.webp
+  [NO ENTRY] assets/img/Ultima/Zyfix-100LB 10x10 Tablets.webp
+  [NO ENTRY] assets/img/Ultima/Zyfix-200 10x1x10 Tablets.webp
+  [NO ENTRY] assets/img/Ultima/Zyfix-200 20x10 Tablets.webp
+  [NO ENTRY] assets/img/Ultima/Zyfix-CV 325 10x1x10 Tablets.webp
+
+--- PRODUCT ENTRIES WITH MISSING IMAGES (in product-data.js but no image file) ---
+Count: 1
+  [NO IMAGE] Line 709: Xerominic | Tablet(Pink) | 58.77 | Innoventis
+
+--- SUMMARY ---
+Total product entries: 716
+Total image files (Ultima+Innoventis): 885
+Images without product entry: 211
+Product entries without image: 1

@@ -1,0 +1,453 @@
+S.No.,Product Name,Pack Type,MRP (Rs.),Pack Size,Image Path
+1,Accuzith-250,Tablet,75.28,20x6,Ultima\Accuzith-250 20x6 Tablets.webp
+2,Accuzith-500,Tablet,76.00,30x3,Ultima\Accuzith-500 30x3 Tablets.webp
+3,Accuzith-500 XL,Tablet,126.73,10x5,Ultima\Accuzith-500 XL 10x5 Tablets.webp
+4,Auxtocef-250,Tablet,350.62,10x1x10,Ultima\Auxtocef 250 Tablets 10x1x10.webp
+5,Auxtocef-500,Tablet,549.46,10x1x10,Ultima\Auxtocef-500 Tablets 10x1x10.webp
+6,Bactofix-200 DT,Tablet,105.10,20x10,Ultima\Bactofix-200 20x10 Tablets.webp
+7,Bactofix-O,Tablet,224.50,20x10,Ultima\Bactofix-O 10x10 Tablets.webp
+8,Bactofix-XL,Tablet,237.00,10x1x10,Ultima\Bactofix-XL 10x1x10 Tablets.webp
+9,Bactopraz S 1.5g,Injection,474.00,20ml,Ultima\Bactopraz S 1 5 gm Injection.webp
+10,Bactospan-250,Tablet,23.62,20x10,Ultima\Bactospan-250 20x10 Tablets.webp
+11,Bactospan-500,Tablet,45.67,20x10,Ultima\Bactospan-500 20x10 Tablets.webp
+12,Becominta-12,Injection,30.93,24x3,Ultima\Becominta-12 Injection.webp
+13,Burnolium,Ointement,134.00,20gm,Ultima\Burnolium 20gm Cream.webp
+14,Cefpovent-100,Tablet,124.77,20x10,Ultima\CEFPOVENT-100 20x10 Tablets.webp
+15,Cefpovent-100,Dry Syrup,180.92,30ml,Ultima\CEFPOVENT-100 30ml Dry Syrup.webp
+16,Cefpovent-200,Tablet,243.30,10x10,Ultima\Cefpovent-200 10x10 Tablets.webp
+17,Cefpovent-50,Dry Syrup,108.56,30ml,Ultima\Cefpovent 50 Dry Syrup.webp
+18,Ceftirol 250,Injection,30.47,7.5ml,Ultima\Ceftirol 250 mg Injection.webp
+19,Ceftirol 500,Injection,54.06,7.5ml,Ultima\Ceftirol 500 mg Injection.webp
+20,Ceftirol S-1.5,Injection,234.00,20ml,Ultima\Ceftirol S-1.5 20ml Injection.webp
+21,Ceftirol S-375,Injection,68.60,10ml,Ultima\Ceftirol S-375 10ml Injection.webp
+22,Ceftirol S-750,Injection,102.30,10ml,Ultima\Ceftirol S-750 10ml Injection.webp
+23,Ceftirol-1g,Injection,67.07,10ml,Ultima\Ceftirol-1g 10ml Injection.webp
+24,Ceftirol-T 1.125,Injection,230.80,20ml,Ultima\Ceftirol-t 1.125 20ml Injection.webp
+25,Ceftirol-T 281.25mg,Injection,78.00,20ml,Ultima\Ceftirol-T 281.25mg Injection.webp
+26,Ceftirol-T 562.5mg,Injection,130.00,20ml,Ultima\Ceftirol-T 562.5mg Injection.webp
+27,Cetrovent-10,Tablet,20.16,20x7x10,Ultima\Cetrovent-10 20x7x10 Tablets.webp
+28,Cortidron-100,Injection,48.16,5ml,Ultima\Cortidron 100mg injection.webp
+29,Decacortil-6,Tablet,123.52,20x10,Ultima\Decacortil-6 20x10 Tablets.webp
+30,Dermovent FP,Tablet,88.69,10x2x10,Ultima\Dermovent-FP 10x2x10 Tablets.webp
+31,Doloride-P,Tablet,100.38,10x2x15,Ultima\Doloride-P 10x2x15 Tablets.webp
+32,Doloride-P,Tablet,73.60,10x2x10,Ultima\Doloride-P 10x2x10 Tablets.webp
+33,Doloride-SP,Tablet,134.00,20x10,Ultima\Doloride-SP 20x10 Tablets.webp
+34,Dydrobenz 10,Tablet,529.68,10x1x10,Ultima\DydroBenz-10x1x10 Tablets.webp
+35,Farogard,Syrup,319.68,30ml,Ultima\Farogard 30ml Syrup.webp
+36,Farogard 200,Tablet,979.68,10x1x10,Ultima\FAROGARD-200 10x1x10 Tablet.webp
+37,Farogard 300,Tablet,1335.93,10x1x10,Ultima\Farogard-300 10x1x10 Tablets.webp
+38,Fepadol Kid,Drop,34.10,15ml,Ultima\Fepadol-Kid Drops 15ml.webp
+39,Fepadol-250,Syrup,42.83,60ml,Ultima\Fepadol-250 60ml Oral Suspension.webp
+40,Fepadol-500,Tablet,9.76,50x10,Ultima\Fepadol-500 50x10 Tablets.webp
+41,Fepadol-650,Tablet,32.28,10x2x15,Ultima\Fepadol-650 10x2x15 Tablets.webp
+42,Ferivent,Injection,308.64,5ml,Ultima\Ferivent 5ml Injection.webp
+43,Healodine 5%,Solution,236.25,500ml,Ultima\Healodine Solution 500ml.webp
+44,Lacturol,Syrup,132.30,100ml,Ultima\Lacturol 100ml Syrup.webp
+45,Lacturol,Syrup,224.91,170ml,Ultima\Lacturol Syrup 170ml.webp
+46,Livominta,Syrup,121.68,200ml,Ultima\Livominta 200ml Syrup.webp
+47,Lizubiotic-600,Tablet,381.00,10x1x10,Ultima\LIZUBIOTIC 600 10x1x10 Tablets.webp
+48,Lodicaine,Ointement,34.96,30gm,Ultima\Lodicaine 30gm Cream.webp
+49,Meroride-1000,Injection,1024.40,20ml,Ultima\Meroride 1000 INJECTION.webp
+50,Methocort,Injection,98.19,2ml,Ultima\Methocort Injection 2ml.webp
+51,Methocort 40,Injection,49.09,40mg,Ultima\Methocort 40 40mg Injection.webp
+52,Mikarol-500,Injection,115.70,2ml,Ultima\Mikarol-500 40x2ml Injection.webp
+53,Mylabion-1500,Injection,70.33,10x5x2ml,Ultima\Mylabion-1500 10x5x2ml Injection.webp
+54,Mylabion-Plus,Injection,77.34,2ml,Ultima\Mylabion-PLUS 2ml Injection.webp
+55,Necadec-50,Injection,319.68,1ml,Ultima\Necadec-50 1ml Injection.webp
+56,Nimuvent-P,Tablet,57.39,25x2x10,Ultima\Nimuvent-P 25x2x10 Tablets.webp
+57,Nimuvent-P (Gold),Tablet,57.39,10x2x10,Ultima\Nimuvent-P 10x2x10 Tablets.webp
+58,Nimuvent-P (Gold),Tablet,57.39,30x2x10,Ultima\Nimuvent-P 30x2x10 Tablets.webp
+59,Nodigyl 400,Tablet,24.57,10x2x15,Ultima\Nodigyl-400 10x2x15 Tablets.webp
+60,Oftirol OH,Tablet,120.00,20x10,Ultima\Oftirol-OH Tablets 20x10.webp
+61,Oftirol-200,Tablet,106.05,20x10,Ultima\Oftirol-200 20x10 Tablets.webp
+62,Oftirol-200,Tablet,123.75,30x10,Ultima\Oftirol-200 30x10 Tablets.webp
+63,Omiup,Capsule,61.74,20x20,Ultima\Omiup 20x20 Capsules.webp
+64,Omiup-D,Capsule,164.34,20x20,Ultima\Omiup-D 20x20 Capsules.webp
+65,Ondilium,Injection,12.81,2ml,Ultima\Ondilium Injection 2ml.webp
+66,Pantoraz-DSR,Capsule,141.70,20x10,Ultima\Pantoraz DSR 20x10 Capsules.webp
+67,Pantovent,Injection,54.24,10ml,Ultima\Pantovent 10ml Injection.webp
+68,Piptavent-4.5,Injection,429.45,20ml,Ultima\Piptavent 4-5g Injection.webp
+69,Rabiup-DSR,Capsule,147.45,20x10,Ultima\Rabiup-DSR 20x10 Capsules.webp
+70,Ranilium,Injection,16.87,10x5x2ml,Ultima\Ranilium 50mg 10x5x2 Injection.webp
+71,Ranilium-150,Tablet,85.05,20x30,Ultima\Ranilium-150 20x30 Tablets.webp
+72,Ranilium-300,Tablet,46.40,20x10,Ultima\Ranilium 300mg 20x10 Tablets.webp
+73,Roxifit-150,Tablet,102.00,20x10,Ultima\Roxifit-150 20x10 Tablets.webp
+74,RTRIT,Injection,263.14,5ml,Ultima\Rtrit 5ml Injection.webp
+75,Spasmovent,Tablet,58.95,6x5x10,Ultima\Spasmovent 6x5x10 Tablets.webp
+76,Sporivent-125,Tablet,58.98,20x10,Ultima\Sporivent-125 20x10 Tablets.webp
+77,Sporivent-250,Capsule,77.15,20x10,Ultima\Sporivent-250 20x10 Capsules.webp
+78,Sporivent-250,Tablet,137.25,20x10,Ultima\Sporivent-250 20x10 Tablets.webp
+79,Sporivent-500,Capsule,162.93,20x10,Ultima\Sporivent-500 20x10 Capsules.webp
+80,Tusston DX,Syrup,128.49,100ml,Ultima\Tusston DX Syrup 100ml.webp
+81,Tusston-L,Syrup,154.68,100ml,Ultima\Tusston-L 100ml Syrup.webp
+82,Utiquin-400,Tablet,60.51,20x10,Ultima\Utiquin-400 20x10 Tablets.webp
+83,Utiquin-HTZ,Tablet,99.80,10x4x10,Ultima\Utiquin-H TZ 10x4x10 Tablets.webp
+84,Utiquin-TZ,Tablet,109.80,10x4x10,Ultima\Utiquin-TZ 10x4x10 Tablets.webp
+85,Ventimox (250mg),Suspension,100.80,60ml,Ultima\Ventimox-250 Dry Syrup 60ml.webp
+86,Ventimox (125mg),Suspension,66.15,60ml,Ultima\Ventimox-125 Dry Syrup 60ml.webp
+87,Ventimox Plus Kid,Tablet,47.40,20x10,Ultima\Ventimox Plus KID 20x10 Tablets.webp
+88,Ventimox Plus LB (Blue/Grey),Capsule,96.37,10x2x10,Ultima\VENTIMOX PLUS LB (Blue-Grey) 10x2x10 Capsule.webp
+89,Ventimox Plus LB (Sky Blue/White),Capsule,96.37,10x2x10,Ultima\Ventimox PLUS-LB 10x2x10 Capsule.webp
+90,Ventimox-125 DT,Tablet,55.00,20x10,Ultima\Ventimox-125 DT 20x10 Tablets.webp
+91,Ventimox-250 (R/W),Capsule,26.25,10x3x10,Ultima\Ventimox-250mg 10x3x10 Capsules (red white).webp
+92,Ventimox-250 (Yellow/Grey),Capsule,26.25,10x3x10,Ultima\Ventimox-250mg 10x3x10 Capsules (Yellow Grey).webp
+93,Ventimox-250 DT,Tablet,126.56,20x10,Ultima\Ventimox-250 DT 20x10 Tablets.webp
+94,Ventimox-500 (Orange/Orange),Capsule,79.17,10x2x10,Ultima\Ventimox-500 10x2x10 Capsules ORANGE.webp
+95,Ventimox-500 (Y/Y),Capsule,79.17,10x2x10,Ultima\Ventimox-500 10x2x10 Capsules Yellow.webp
+96,Ventimox-CV,Drop,99.82,10ml,Ultima\Ventimox CV 2.2gm 10ml Drops.webp
+97,Ventimox-CV 1.2 GM,Injection,152.31,20ml,Ultima\Ventimox 60ml Dry Syrup.webp
+98,Ventimox-CV 228.5,Dry Syrup,65.20,30ml,Ultima\Ventimox- CV 228.5 Dry Syrup 30ML.webp
+100,Ventimox-CV 228.5,Tablet,195.93,10x1x10,Ultima\Ventimox-CV 228-5 10x1x10 Tablets.webp
+101,Ventimox-CV 375,Tablet,218.90,10x1x10,Ultima\Ventimox-CV 375 10x1x6 Tablets.webp
+102,Ventimox-CV 457,Dry Syrup,139.68,30ml,Ultima\Ventimox CV 457 Dry Syrup 30ml.webp
+103,Ventimox-CV 457,Tablet,337.50,10x1x10,Ultima\Ventimox-CV 457 10x1x10 Tablets.webp
+104,Ventimox-CV 625,Tablet,196.77,10x2x10,Ultima\Ventimox-CV 625 10x2x10 Tablets.webp
+105,Ventimox-CV 625,Tablet,118.06,20x6,Ultima\Ventimox-CV 625 20x6 Tablets.webp
+106,Ventocold,Tablet,54.40,30x10,Ultima\Ventocold 30x10 Tablets.webp
+107,Ventocold DM,Dry Syrup,118.53,100ml,Ultima\Ventocold DM Syrup 100ml.webp
+108,Ventocold DM Junior,Syrup,66.10,60ml,Ultima\Ventocold DM Junior Syrup 60ml.webp
+109,Ventocold RF,Tablet,59.80,6x5x10,Ultima\Ventocold RF 6x5x10 Tablets.webp
+110,Ventocort,Injection,140.62,1ml,Ultima\Ventocort 1ml Injection.webp
+111,Ventocortil-10,Tablet,12.91,10x5x10,Ultima\Ventocortil 10mg 10x5x10 Tablets.webp
+112,Ventocortil-20,Tablet,25.83,20x10,Ultima\Ventocortil 20mg 20x10 Tablets.webp
+113,Ventocortil-5,Tablet,7.24,10x5x10,Ultima\Ventocortil 5mg 10x5x10 Tablets.webp
+114,Ventolyte ORS,Ors,23.34,21.8gm,Ultima\ORS 50 Sachets.webp
+115,Ventoran,Injection,27.94,10x5x1,Ultima\Ventoran 10x5x1 Injection.webp
+116,Ventoran-P,Tablet,44.90,30x10,Ultima\Ventoran-P 30x10 Tablets.webp
+117,Ventoran-P Clear Pvc,Tablet,44.91,10x2x10,Ultima\Ventoran-P 10x2x10 Tablets White PVC.webp
+118,Wormiband Plus,Tablet,22.40,10x10x1,Ultima\Wormiband PLUS 10x10x1 Tablets.webp
+118,Wormiband-400,Tablet,8.73,10x10x1,Ultima\Wormiband 400 10x10x1 Tablets.webp
+119,,,,,
+120,,,,,
+121,,,,,
+122,,,,,
+123,,,,,
+124,,,,,
+125,,,,,
+126,,,,,
+127,,,,,
+128,,,,,
+129,,,,,
+130,,,,,
+132,,,,,
+133,,,,,
+134,,,,,
+135,,,,,
+136,,,,,
+137,,,,,
+138,,,,,
+139,,,,,
+140,,,,,
+141,,,,,
+142,,,,,
+143,,,,,
+144,,,,,
+145,,,,,
+146,,,,,
+147,,,,,
+148,,,,,
+149,,,,,
+150,,,,,
+151,,,,,
+152,,,,,
+153,,,,,
+154,,,,,
+155,,,,,
+156,,,,,
+157,,,,,
+158,,,,,
+159,,,,,
+160,,,,,
+161,,,,,
+162,,,,,
+163,,,,,
+164,,,,,
+165,,,,,
+166,,,,,
+167,,,,,
+168,,,,,
+169,,,,,
+170,,,,,
+171,,,,,
+172,,,,,
+173,,,,,
+174,,,,,
+175,,,,,
+176,,,,,
+177,,,,,
+178,,,,,
+179,,,,,
+180,,,,,
+181,,,,,
+182,,,,,
+183,,,,,
+184,,,,,
+185,,,,,
+186,,,,,
+187,,,,,
+188,,,,,
+189,,,,,
+190,,,,,
+191,,,,,
+192,,,,,
+193,,,,,
+194,,,,,
+195,,,,,
+196,,,,,
+197,,,,,
+198,,,,,
+199,,,,,
+200,,,,,
+201,,,,,
+202,,,,,
+203,,,,,
+204,,,,,
+205,,,,,
+206,,,,,
+207,,,,,
+208,,,,,
+209,,,,,
+210,,,,,
+211,,,,,
+212,,,,,
+213,,,,,
+214,,,,,
+215,,,,,
+216,,,,,
+217,,,,,
+218,,,,,
+219,,,,,
+220,,,,,
+221,,,,,
+222,,,,,
+223,,,,,
+224,,,,,
+225,,,,,
+226,,,,,
+227,,,,,
+228,,,,,
+229,,,,,
+230,,,,,
+231,,,,,
+232,,,,,
+233,,,,,
+234,,,,,
+235,,,,,
+236,,,,,
+237,,,,,
+238,,,,,
+239,,,,,
+240,,,,,
+241,,,,,
+242,,,,,
+243,,,,,
+244,,,,,
+245,,,,,
+246,,,,,
+247,,,,,
+248,,,,,
+249,,,,,
+250,,,,,
+251,,,,,
+252,,,,,
+253,,,,,
+254,,,,,
+255,,,,,
+256,,,,,
+257,,,,,
+258,,,,,
+259,,,,,
+260,,,,,
+261,,,,,
+262,,,,,
+263,,,,,
+264,,,,,
+265,,,,,
+266,,,,,
+267,,,,,
+268,,,,,
+269,,,,,
+270,,,,,
+271,,,,,
+272,,,,,
+273,,,,,
+274,,,,,
+275,,,,,
+276,,,,,
+277,,,,,
+278,,,,,
+279,,,,,
+280,,,,,
+281,,,,,
+282,,,,,
+283,,,,,
+284,,,,,
+,,,,,
+285,,,,,
+286,,,,,
+287,,,,,
+288,,,,,
+289,,,,,
+290,,,,,
+291,,,,,
+292,,,,,
+293,,,,,
+294,,,,,
+295,,,,,
+296,,,,,
+297,,,,,
+298,,,,,
+300,,,,,
+301,,,,,
+302,,,,,
+303,,,,,
+304,,,,,
+306,,,,,
+307,,,,,
+308,,,,,
+309,,,,,
+310,,,,,
+311,,,,,
+312,,,,,
+313,,,,,
+314,,,,,
+315,,,,,
+316,,,,,
+317,,,,,
+318,,,,,
+319,,,,,
+320,,,,,
+321,,,,,
+322,,,,,
+323,,,,,
+324,,,,,
+325,,,,,
+326,,,,,
+327,,,,,
+328,,,,,
+329,,,,,
+330,,,,,
+331,,,,,
+332,,,,,
+333,,,,,
+334,,,,,
+335,,,,,
+336,,,,,
+337,,,,,
+338,,,,,
+339,,,,,
+340,,,,,
+341,,,,,
+342,,,,,
+343,,,,,
+344,,,,,
+345,,,,,
+346,,,,,
+348,,,,,
+349,,,,,
+350,,,,,
+351,,,,,
+352,,,,,
+353,,,,,
+,,,,,
+354,,,,,
+355,,,,,
+356,,,,,
+357,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+358,,,,,
+359,,,,,
+360,,,,,
+361,,,,,
+362,,,,,
+363,,,,,
+364,,,,,
+365,,,,,
+366,,,,,
+367,,,,,
+368,,,,,
+369,,,,,
+370,,,,,
+371,,,,,
+372,,,,,
+373,,,,,
+374,,,,,
+,,,,,
+375,,,,,
+376,,,,,
+377,,,,,
+,,,,,
+379,,,,,
+380,,,,,
+381,,,,,
+382,,,,,
+383,,,,,
+385,,,,,
+386,,,,,
+387,,,,,
+389,,,,,
+391,,,,,
+392,,,,,
+393,,,,,
+394,,,,,
+395,,,,,
+396,,,,,
+397,,,,,
+398,,,,,
+399,,,,,
+400,,,,,
+401,,,,,
+402,,,,,
+403,,,,,
+404,,,,,
+405,,,,,
+406,,,,,
+407,,,,,
+408,,,,,
+409,,,,,
+410,,,,,
+411,,,,,
+412,,,,,
+413,,,,,
+414,,,,,
+415,,,,,
+416,,,,,
+417,,,,,
+418,,,,,
+419,,,,,
+420,,,,,
+421,,,,,
+422,,,,,
+423,,,,,
+424,,,,,
+425,,,,,
+426,,,,,
+427,,,,,
+428,,,,,
+429,,,,,
+430,,,,,
+431,,,,,
+432,,,,,
+433,,,,,
+434,,,,,
+435,,,,,
+436,,,,,
+437,,,,,

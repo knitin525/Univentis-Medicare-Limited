@@ -1,0 +1,428 @@
+﻿=== NEW PRODUCT ENTRIES TO ADD ===
+Count: 211
+
+--- CSV LINES (ready to add to product-data.js) ---
+Oravent,Ointement,15gm,0.00,Innoventis,assets/img/Innoventis/Oravent 15gm Cream.webp
+Oravent,Tablet,20x10,0.00,Innoventis,assets/img/Innoventis/Oravent 20x10 Tablets.webp
+Oravent-Plus,Ointement,5gm,0.00,Innoventis,assets/img/Innoventis/Oravent-Plus 5gm Cream.webp
+Xerominic,Tablet,UNKNOWN,0.00,Innoventis,assets/img/Innoventis/Xerominic Tablets (Pink).webp
+Acipox,Ointement,15gm,0.00,Ultima,assets/img/Ultima/Acipox 15gm Cream.webp
+Acipox- 400,Tablet,10x10,0.00,Ultima,assets/img/Ultima/Acipox- 400 10x10 Tablets.webp
+Acipox- 800,OTHER,10x10,0.00,Ultima,assets/img/Ultima/Acipox- 800 10x10 General.webp
+Actigrain-5,Tablet,20x10,0.00,Ultima,assets/img/Ultima/Actigrain-5 20x10 Tablets.webp
+Amlovent-5,Tablet,20x14,0.00,Ultima,assets/img/Ultima/Amlovent-5 20x14 Tablets.webp
+Apilactin Plus,Drop,30ml,0.00,Ultima,assets/img/Ultima/Apilactin Plus 30ml Drops.webp
+Avizact,Injection,UNKNOWN,0.00,Ultima,assets/img/Ultima/Avizact Injection.webp
+Bactofix-AZ,Tablet,10x1x10,0.00,Ultima,assets/img/Ultima/Bactofix-AZ 10x1x10 Tablets.webp
+Bactofix-O,OTHER,30ml,0.00,Ultima,assets/img/Ultima/Bactofix-O 30ml Tab.webp
+Bactofix-o,Dry Syrup,30ml,0.00,Ultima,assets/img/Ultima/Bactofix-o 30ml Dry Syrup.webp
+Bactopraz S 1,Injection,5 gm,0.00,Ultima,assets/img/Ultima/Bactopraz S 1 5 gm  Injection.webp
+Bilotra,Oral Solution,60ml,0.00,Ultima,assets/img/Ultima/Bilotra 60ml Oral Solution.webp
+BILOTRA-40,Tablet,10x1x10,0.00,Ultima,assets/img/Ultima/BILOTRA-40 10x1x10 Tablets.webp
+BISOVENT 2.5,Tablet,20x10,0.00,Ultima,assets/img/Ultima/BISOVENT 2.5 tablets 20x10.webp
+Bisovent-5,Tablet,20x10,0.00,Ultima,assets/img/Ultima/Bisovent-5 20x10 Tablets.webp
+Buderon 10x5x2ml,Respules,2ml,0.00,Ultima,assets/img/Ultima/Buderon 10x5x2ml Respules.webp
+Buderon F,Respules,2ml,0.00,Ultima,assets/img/Ultima/Buderon F  Respules 4x5x2ml.webp
+Candivent-B,Ointement,15gm,0.00,Ultima,assets/img/Ultima/Candivent-B 15gm Cream.webp
+Capilate-P,Ointement,30gm,0.00,Ultima,assets/img/Ultima/Capilate-P 30gm Cream.webp
+Cilarol-20,Tablet,20x10,0.00,Ultima,assets/img/Ultima/Cilarol-20 20x10 Tablets.webp
+Clarilite,Ointement,15gm,0.00,Ultima,assets/img/Ultima/Clarilite Cream 15gm Cream.webp
+Clindarol-300,Capsule,10x1x10,0.00,Ultima,assets/img/Ultima/Clindarol-300 10x1x10 Capsules.webp
+Clobevent,Ointement,15gm,0.00,Ultima,assets/img/Ultima/Clobevent 15gm Cream.webp
+Clopivent-75,Tablet,10x10,0.00,Ultima,assets/img/Ultima/Clopivent-75 10x10 Tablets.webp
+Clopivent-A 150,Capsule,10x10,0.00,Ultima,assets/img/Ultima/Clopivent-A 150 10x10 Capsules.webp
+Coligut-L,Capsule,10x1x10,0.00,Ultima,assets/img/Ultima/Coligut-L Capsule 10x1x10.webp
+Coligut-L,Dry Syrup,30ml,0.00,Ultima,assets/img/Ultima/Coligut-L Dry Syrup 30ml.webp
+Colivent,Drop,30ml,0.00,Ultima,assets/img/Ultima/Colivent 30ml Drop.webp
+Daophage-500,Tablet,10x2x5,0.00,Ultima,assets/img/Ultima/Daophage-500 10x2x5 Tablets.webp
+Daophage-SR-1000 20x10Tablets,Tablet,20x10,0.00,Ultima,assets/img/Ultima/Daophage-SR-1000 20x10Tablets.webp
+Dermovent-5,Ointement,15gm,0.00,Ultima,assets/img/Ultima/Dermovent-5 15gm Cream.webp
+Dilustone 30 N,Capsule,30 N,0.00,Ultima,assets/img/Ultima/Dilustone 30 N Capsules.webp
+Doloride-Cold,Tablet,20x10,0.00,Ultima,assets/img/Ultima/Doloride-Cold 20x10 Tablets.webp
+Doloride-P,Tablet,20x10,0.00,Ultima,assets/img/Ultima/Doloride-P 20x10 Tablets.webp
+Dolosaid-MP,Syrup,60ml,0.00,Ultima,assets/img/Ultima/Dolosaid-MP 60ml Suspension.webp
+Dolosaid-MP DS,Syrup,60ml,0.00,Ultima,assets/img/Ultima/Dolosaid-MP DS 60ml Suspension.webp
+Dolosaid-P,Syrup,60ml,0.00,Ultima,assets/img/Ultima/Dolosaid-P Syrup 60ml.webp
+Dolosaid-RAB SR,Capsule,10x1x10,0.00,Ultima,assets/img/Ultima/Dolosaid-RAB SR 10x1x10 Capsules.webp
+Dolosaid-Sp,Tablet,20x10,0.00,Ultima,assets/img/Ultima/Dolosaid-Sp 20x10 Tablets.webp
+Donacortil-Tm,Capsule,10x1x10,0.00,Ultima,assets/img/Ultima/Donacortil-Tm 10x1x10 Capsules.webp
+Doxivent-Lb,Capsule,20x10,0.00,Ultima,assets/img/Ultima/Doxivent-Lb 20x10 Capsules.webp
+Duosma,Respules,4x5x2,0.00,Ultima,assets/img/Ultima/Duosma Respules 4x5x2 5 ml.webp
+Eminta-PLUS,Capsule,10x1x10,0.00,Ultima,assets/img/Ultima/Eminta-PLUS 10x1x10 Capsules.webp
+Esovent DSR,Capsule,10x1x10,0.00,Ultima,assets/img/Ultima/Esovent DSR Capsules 10x1x10.webp
+Esovent IT,Tablet,10x10,0.00,Ultima,assets/img/Ultima/Esovent IT 10x10 Tablets.webp
+Esovent-Lsr,Capsule,10x1x10,0.00,Ultima,assets/img/Ultima/Esovent-Lsr 10x1x10 Capsules.webp
+Farogard-200,Tablet,10x1x6,0.00,Ultima,assets/img/Ultima/Farogard-200 10x1x6 Tablets.webp
+Farogrd,Dry Syrup,30ml,0.00,Ultima,assets/img/Ultima/Farogrd Dry Syrup 30ml.webp
+Fepadol-120,Syrup,60ml,0.00,Ultima,assets/img/Ultima/Fepadol-120 60ml Syrup.webp
+Fepadol-125 Susp 60ml,OTHER,60ml,0.00,Ultima,assets/img/Ultima/Fepadol-125 Susp 60ml.webp
+Fepadol-240,Syrup,60ml,0.00,Ultima,assets/img/Ultima/Fepadol-240 60ml Syrup.webp
+Ferivent Inj 100mg-5ml 5x1x5ml,OTHER,100mg,0.00,Ultima,assets/img/Ultima/Ferivent Inj 100mg-5ml 5x1x5ml.webp
+Ferivent-Z,Capsule,10x2x15,0.00,Ultima,assets/img/Ultima/Ferivent-Z 10x2x15 Capsules.webp
+Flupress-20 10x2x15caps,Capsule,10x2x15,0.00,Ultima,assets/img/Ultima/Flupress-20 10x2x15caps Capsules.webp
+Flutigra,Respules,2ml,0.00,Ultima,assets/img/Ultima/Flutigra Respules for Inhalation 10x5x2ml.webp
+Gabavent-300,Capsule,10x10,0.00,Ultima,assets/img/Ultima/Gabavent-300 10x10 Capsules.webp
+Gasfiz Raft,Syrup,150ml,0.00,Ultima,assets/img/Ultima/Gasfiz Raft 150ml Syrup.webp
+Gastovent-Dsr,Capsule,20x10,0.00,Ultima,assets/img/Ultima/Gastovent-Dsr 20x10 Capsules.webp
+Gastovent-Lsr,Capsule,10x1x10,0.00,Ultima,assets/img/Ultima/Gastovent-Lsr 10x1x10 Capsules.webp
+Glipra-1,Tablet,10x10,0.00,Ultima,assets/img/Ultima/Glipra-1 10x10 Tablets.webp
+Glipra-2,Tablet,10x10,0.00,Ultima,assets/img/Ultima/Glipra-2 10x10 Tablets.webp
+Ibuvent-Plus,Tablet,20x20,0.00,Ultima,assets/img/Ultima/Ibuvent-Plus 20x20 Tablets.webp
+Indovent-25,Capsule,20x10,0.00,Ultima,assets/img/Ultima/Indovent-25 20x10 Capsules.webp
+Indovent-Sr,Capsule,20x10,0.00,Ultima,assets/img/Ultima/Indovent-Sr 20x10 Capsules.webp
+Insta Play,Condom,3N,0.00,Ultima,assets/img/Ultima/Insta Play Condom Chocolate Extra Dotted 48x3N.webp
+Insta Play,Condom,3N,0.00,Ultima,assets/img/Ultima/Insta Play Condom Chocolate Ultra Thin 3N.webp
+Insta Play,Condom,3N,0.00,Ultima,assets/img/Ultima/Insta Play Condom Chocolate Ultra Thin 48x3N.webp
+Insta Play,Condom,3N,0.00,Ultima,assets/img/Ultima/Insta Play Condom Strawberry Extra Dotted 48x3N.webp
+Insta Play,Condom,UNKNOWN,0.00,Ultima,assets/img/Ultima/Insta Play Condom Strawberry Extra Dotted.webp
+Insta Play 48x1x3n,Condom,3n,0.00,Ultima,assets/img/Ultima/Insta Play 48x1x3n Condom.webp
+Insta Play Strawberry Extra Time,Condom,3N,0.00,Ultima,assets/img/Ultima/Insta Play Strawberry Extra Time Condom 3N.webp
+Insta Play Strawberry Extra Time,Condom,3N,0.00,Ultima,assets/img/Ultima/Insta Play Strawberry Extra Time Condom 48x3N.webp
+Insta Play Strawberry Ultra Thin,Condom,UNKNOWN,0.00,Ultima,assets/img/Ultima/Insta Play Strawberry Ultra Thin  Condom.webp
+Itromax-100,Capsule,10x1x10,0.00,Ultima,assets/img/Ultima/Itromax-100 10x1x10 Capsules.webp
+Itromax-200,Capsule,10x1x10,0.00,Ultima,assets/img/Ultima/Itromax-200 10x1x10 Capsules.webp
+Itromax-SB-130mg,Capsule,10x1x10,0.00,Ultima,assets/img/Ultima/Itromax-SB-130mg 10x1x10 Capsules.webp
+Itromax-SB-65mg,Capsule,10x1x10,0.00,Ultima,assets/img/Ultima/Itromax-SB-65mg 10x1x10 Capsules.webp
+Ketojet,Soap,75g,0.00,Ultima,assets/img/Ultima/Ketojet 75g Soap.webp
+Levotramine-PLUS,Tablet,20x10,0.00,Ultima,assets/img/Ultima/Levotramine-PLUS 20x10 Tablets.webp
+Lipivent-40mg,Tablet,8x5x10,0.00,Ultima,assets/img/Ultima/Lipivent-40mg 8x5x10 Tablets.webp
+Lipivent-Gold 10,Capsule,10x15,0.00,Ultima,assets/img/Ultima/Lipivent-Gold 10 10x15 Capsules.webp
+Lipivent-Gold 20,Capsule,10x15,0.00,Ultima,assets/img/Ultima/Lipivent-Gold 20 10x15 Capsules.webp
+Losaride-50,Tablet,20x10,0.00,Ultima,assets/img/Ultima/Losaride-50 20x10 Tablets.webp
+Losaride-AM,Tablet,2x5x10,0.00,Ultima,assets/img/Ultima/Losaride-AM 2x5x10 Tablets.webp
+Lulinaz spary 30ml,Nasal Spray,30ml,0.00,Ultima,assets/img/Ultima/Lulinaz spary 30ml.webp
+Megadron 16,Tablet,20x14,0.00,Ultima,assets/img/Ultima/Megadron 16 20x14 Tablets.webp
+METHOCORT,Injection,500mg,0.00,Ultima,assets/img/Ultima/METHOCORT 500mg Injecton.webp
+Methocort,Injection,2ml,0.00,Ultima,assets/img/Ultima/Methocort 2ml Injection 02.webp
+Montiride FXA,Tablet,10X1X10,0.00,Ultima,assets/img/Ultima/Montiride FXA Tablets 10X1X10.webp
+Montiride-FXA,Tablet,10x10,0.00,Ultima,assets/img/Ultima/Montiride-FXA 10x10 Tablets.webp
+MOXILANTA CV,Drop,10ml,0.00,Ultima,assets/img/Ultima/MOXILANTA CV Droper 10ml.webp
+Moxilanta-250,Capsule,10x3x10,0.00,Ultima,assets/img/Ultima/Moxilanta-250 10x3x10  Capsules.webp
+Moxilanta-500,Capsule,10x3x10,0.00,Ultima,assets/img/Ultima/Moxilanta-500 10x3x10  Capsules.webp
+Moxilanta-CV 228.5,Tablet,10x1x10,0.00,Ultima,assets/img/Ultima/Moxilanta-CV 228.5 10x1x10 Tablets.webp
+Moxilanta-CV 228.5,Dry Syrup,30ml,0.00,Ultima,assets/img/Ultima/Moxilanta-CV 228.5 Dry Syrup 30ml.webp
+Moxilanta-CV 375,Tablet,10x1x10,0.00,Ultima,assets/img/Ultima/Moxilanta-CV 375 10x1x10 Tablets.webp
+Moxilanta-CV 457,Tablet,10x1x10,0.00,Ultima,assets/img/Ultima/Moxilanta-CV 457 10x1x10 Tablets.webp
+Moxilanta-CV 457,Dry Syrup,30ml,0.00,Ultima,assets/img/Ultima/Moxilanta-CV 457 Dry Syrup 30ml.webp
+Moxilanta-CV 625,Tablet,10x1x10,0.00,Ultima,assets/img/Ultima/Moxilanta-CV 625 10x1x10 Tablets.webp
+Moxilanta-CV 625,Tablet,10x1x6,0.00,Ultima,assets/img/Ultima/Moxilanta-CV 625 10x1x6 Tablets.webp
+Mylabion,Capsule,10x1x10,0.00,Ultima,assets/img/Ultima/Mylabion 10x1x10 Capsules.webp
+Mylabion,Syrup,200ml,0.00,Ultima,assets/img/Ultima/Mylabion 200ml Syrup.webp
+Mylabion,Syrup,100 ml,0.00,Ultima,assets/img/Ultima/Mylabion Syrup 100 ml.webp
+Mylabion-Plus,Capsule,5x1x10,0.00,Ultima,assets/img/Ultima/Mylabion-Plus 5x1x10 Capsules.webp
+Natadol-50mg,Tablet,10x1x10,0.00,Ultima,assets/img/Ultima/Natadol-50mg 10x1x10 Tablets.webp
+Oftirol-200,Syrup,UNKNOWN,0.00,Ultima,assets/img/Ultima/Oftirol-200 Syrup Bottal.webp
+Oftirol-M,Syrup,30ml,0.00,Ultima,assets/img/Ultima/Oftirol-M 30ml Syrup.webp
+Oftirol-M,Syrup,60ml,0.00,Ultima,assets/img/Ultima/Oftirol-M 60ml Syrup.webp
+Oftirol-OZ,Tablet,20x10,0.00,Ultima,assets/img/Ultima/Oftirol-OZ Tablets 20x10.webp
+Omefiz,Capsule,20x15,0.00,Ultima,assets/img/Ultima/Omefiz 20x15 Capsules.webp
+Omefiz-D,Capsule,20x15,0.00,Ultima,assets/img/Ultima/Omefiz-D 20x15 Capsules.webp
+Omiup,Capsule,20x15,0.00,Ultima,assets/img/Ultima/Omiup 20x15 Capsules.webp
+Omiup-D,Capsule,20x15,0.00,Ultima,assets/img/Ultima/Omiup-D 20x15 Capsules.webp
+Ondilium,Drop,30ml,0.00,Ultima,assets/img/Ultima/Ondilium 30ml Drop.webp
+Oravent,Tablet,20x10,0.00,Ultima,assets/img/Ultima/Oravent 20x10 Tablets.webp
+Pantoraz-40,Tablet,20x15,0.00,Ultima,assets/img/Ultima/Pantoraz-40 20x15 Tablets.webp
+Pantoraz-D,Tablet,20x15,0.00,Ultima,assets/img/Ultima/Pantoraz-D 20x15 Tablets.webp
+Pantovent-Dsr,Capsule,20x10,0.00,Ultima,assets/img/Ultima/Pantovent-Dsr 20x10 Capsules.webp
+Pantovent-Lsr,Capsule,10x1x10,0.00,Ultima,assets/img/Ultima/Pantovent-Lsr 10x1x10 Capsules.webp
+Phylobron,Capsule,10x10,0.00,Ultima,assets/img/Ultima/Phylobron 10x10 Capsules.webp
+Piptavent,Injection,1.125 mg,0.00,Ultima,assets/img/Ultima/Piptavent 1.125 mg Injection.webp
+Piptavent,Injection,1.125mg,0.00,Ultima,assets/img/Ultima/Piptavent 1.125mg Injection.webp
+Pregavent 75mg,Capsule,10x10,0.00,Ultima,assets/img/Ultima/Pregavent 75mg 10x10 Capsules.webp
+Pregavent-300,Capsule,10x15,0.00,Ultima,assets/img/Ultima/Pregavent-300 10x15 Capsules.webp
+Pregavent-D 75-20,Capsule,10x10,0.00,Ultima,assets/img/Ultima/Pregavent-D 75-20 10x10 Capsules.webp
+Pregavent-M,Capsule,10x1x10,0.00,Ultima,assets/img/Ultima/Pregavent-M 10x1x10 Capsules.webp
+Proditil,Drop,10ml,0.00,Ultima,assets/img/Ultima/Proditil Drops 10ml.webp
+Proditil CV 100+62.5,Dry Syrup,10x1x10,0.00,Ultima,assets/img/Ultima/Proditil CV 100+62.5 10x1x10 Dry Syrup.webp
+Proditil CV 100+62.5,Tablet,10x1x10,0.00,Ultima,assets/img/Ultima/Proditil CV 100+62.5 10x1x10 Tablets.webp
+Proditil-100,Dry Syrup,30ml,0.00,Ultima,assets/img/Ultima/Proditil-100 30ml Dry Syrup.webp
+Proditil-50,Dry Syrup,30ml,0.00,Ultima,assets/img/Ultima/Proditil-50 30ml Dry Syrup.webp
+Proditil-CV,Dry Syrup,30ml,0.00,Ultima,assets/img/Ultima/Proditil-CV Dry Syrup 30ml.webp
+Protiminta (Chocolate),OTHER,UNKNOWN,0.00,Ultima,assets/img/Ultima/Protiminta (Chocolate).webp
+Ranilium-O Combipack,Injection,UNKNOWN,0.00,Ultima,assets/img/Ultima/Ranilium-O Combipack Injection.webp
+Rejuvital Gold,Capsule,10x1x10,0.00,Ultima,assets/img/Ultima/Rejuvital Gold Capsules 10x1x10.webp
+Rejuvital-EYE,Capsule,10x1x10,0.00,Ultima,assets/img/Ultima/Rejuvital-EYE 10x1x10 Capsules.webp
+Rifavent 400,Tablet,20x10,0.00,Ultima,assets/img/Ultima/Rifavent 400 20x10 Tablets.webp
+Rozucard-Gold,Capsule,10x1x10,0.00,Ultima,assets/img/Ultima/Rozucard-Gold 10x1x10 Capsules.webp
+Rozucard-Gold-20,Capsule,10x1x10,0.00,Ultima,assets/img/Ultima/Rozucard-Gold-20 10x1x10 Capsules.webp
+Salazomax 500mg,Tablet,10x2x10,0.00,Ultima,assets/img/Ultima/Salazomax 500mg 10x2x10 Tablets.webp
+Sildostat-8,Capsule,10x1x10,0.00,Ultima,assets/img/Ultima/Sildostat-8 10x1x10 Capsules.webp
+Sildostat-D8,Capsule,10x1x10,0.00,Ultima,assets/img/Ultima/Sildostat-D8 10x1x10 Capsules.webp
+Sinovent,Nasal Spray,10ml,0.00,Ultima,assets/img/Ultima/Sinovent 10ml Spray.webp
+Sinovent,Syrup,60ml,0.00,Ultima,assets/img/Ultima/Sinovent 60ml Syrup.webp
+Sinovent Vapor,Capsule,20x10,0.00,Ultima,assets/img/Ultima/Sinovent Vapor 20x10 Capsules.webp
+Sinovent-Rub 25g,Ointement,25g,0.00,Ultima,assets/img/Ultima/Sinovent-Rub 25g.webp
+Skinbloom,Facewash,UNKNOWN,0.00,Ultima,assets/img/Ultima/Skinbloom Facewash.webp
+Skinbloom 24x1x15gm,Ointement,15gm,0.00,Ultima,assets/img/Ultima/Skinbloom 24x1x15gm Cream.webp
+Spapmovent,Syrup,60ml,0.00,Ultima,assets/img/Ultima/Spapmovent 60ml Suspension.webp
+Spasmovent,Drop,10ml,0.00,Ultima,assets/img/Ultima/Spasmovent Drop 10ml.webp
+Sporivent-BD 375,Tablet,10x10,0.00,Ultima,assets/img/Ultima/Sporivent-BD 375 10x10 Tablets.webp
+Telirol-Am,Tablet,20x10,0.00,Ultima,assets/img/Ultima/Telirol-Am 20x10 Tablets.webp
+Terbiride,Ointement,15g,0.00,Ultima,assets/img/Ultima/Terbiride Cream 15g.webp
+Thyrovent 100mcg,Tablet,10x100,0.00,Ultima,assets/img/Ultima/Thyrovent 100mcg 10x100 Tablets.webp
+Thyrovent 25mcg,Tablet,10x100,0.00,Ultima,assets/img/Ultima/Thyrovent 25mcg 10x100 Tablets.webp
+Thyrovent 50mcg,Tablet,10x100,0.00,Ultima,assets/img/Ultima/Thyrovent 50mcg 10x100 Tablets.webp
+Thyrovent 75mcg,Tablet,10x100,0.00,Ultima,assets/img/Ultima/Thyrovent 75mcg 10x100 Tablets.webp
+Torigesic-Plus,Tablet,5x3x15,0.00,Ultima,assets/img/Ultima/Torigesic-Plus 5x3x15 Tablets.webp
+Tusston,Lozenges,35x10,0.00,Ultima,assets/img/Ultima/Tusston 35x10 Lozenges.webp
+Tusston Cough,Lozenges,12x10,0.00,Ultima,assets/img/Ultima/Tusston Cough 12x10 Lozenges.webp
+Uriride-0-4mg,Capsule,10x20,0.00,Ultima,assets/img/Ultima/Uriride-0-4mg 10x20 Capsules.webp
+Uriride-D,Capsule,10x1x15,0.00,Ultima,assets/img/Ultima/Uriride-D 10x1x15 Capsules.webp
+Utispas-OF,Tablet,10x10,0.00,Ultima,assets/img/Ultima/Utispas-OF 10x10 Tablets.webp
+Ventimox CV,Injection,1.2gm,0.00,Ultima,assets/img/Ultima/Ventimox CV 1.2gm Injection.webp
+Ventimox CV 3-3g,Dry Syrup,3g,0.00,Ultima,assets/img/Ultima/Ventimox CV 3-3g Dry Syrup 30ml.webp
+Ventimox CV DS,Dry Syrup,30ml,0.00,Ultima,assets/img/Ultima/Ventimox CV DS Dry Syrup 30ml.webp
+Ventimox- CV 457,Dry Syrup,30ML,0.00,Ultima,assets/img/Ultima/Ventimox- CV 457 Dry Syrup 30ML.webp
+Ventimox-125DT,Tablet,20x10,0.00,Ultima,assets/img/Ultima/Ventimox-125DT 20x10 Tabletes.webp
+Ventimox-250mg,Capsule,10x3x10,0.00,Ultima,assets/img/Ultima/Ventimox-250mg 10x3x10 Capsules.webp
+Ventimox-500,Capsule,10x2x10,0.00,Ultima,assets/img/Ultima/Ventimox-500 10x2x10 Capsules.webp
+Ventimox-Cv,Drop,10ml,0.00,Ultima,assets/img/Ultima/Ventimox-Cv 10ml Drop.webp
+Ventimox-CV 1000,Tablet,10x1x10,0.00,Ultima,assets/img/Ultima/Ventimox-CV 1000 Tablet 10x1x10.webp
+Ventimox-CV 2-2gm,Drop,2gm,0.00,Ultima,assets/img/Ultima/Ventimox-CV 2-2gm Droper 10ml.webp
+Ventimox-CV 228-5,Tablet,10x1x6,0.00,Ultima,assets/img/Ultima/Ventimox-CV 228-5 10x1x6 Tablets.webp
+Ventimox-CV 375,Tablet,10x1x10,0.00,Ultima,assets/img/Ultima/Ventimox-CV 375 10x1x10 Tablets.webp
+Ventocal D3,Capsule,UNKNOWN,0.00,Ultima,assets/img/Ultima/Ventocal D3 Softgel Capsules.webp
+Ventocal Joints,Capsule,10x1x10,0.00,Ultima,assets/img/Ultima/Ventocal Joints Softgel 10x1x10 Capsules.webp
+Ventokast-Lc,Tablet,20x1x10,0.00,Ultima,assets/img/Ultima/Ventokast-Lc 20x1x10 Tablets.webp
+Ventokast-LC Junior,Tablet,20x10,0.00,Ultima,assets/img/Ultima/Ventokast-LC Junior 20x10 Tablets.webp
+Ventomycin 12gm-30ml,OTHER,12gm,0.00,Ultima,assets/img/Ultima/Ventomycin 12gm-30ml.webp
+Ventomycin DS 12gm-30ml,OTHER,12gm,0.00,Ultima,assets/img/Ultima/Ventomycin DS 12gm-30ml.webp
+VentoPlex-L,Syrup,100ml,0.00,Ultima,assets/img/Ultima/VentoPlex-L Syrup 100ml.webp
+VentoPlex-L,Syrup,200ml,0.00,Ultima,assets/img/Ultima/VentoPlex-L Syrup 200ml.webp
+Ventoran,Gel,10g,0.00,Ultima,assets/img/Ultima/Ventoran 10g Pain-Gel single.webp
+VENTORAN 2X PAIN,Nasal Spray,35G,0.00,Ultima,assets/img/Ultima/VENTORAN 2X PAIN SPRAY 35G.webp
+Ventoran MR,Tablet,20x10,0.00,Ultima,assets/img/Ultima/Ventoran MR 20x10 Tablets.webp
+Ventoran-P,Tablet,10x2x10,0.00,Ultima,assets/img/Ultima/Ventoran-P 10x2x10 Tablets Yellow PVC.webp
+Ventoran-P,Tablet,10x2x10,0.00,Ultima,assets/img/Ultima/Ventoran-P 10x2x10 Tablets.webp
+Ventoxol-L,Syrup,60ml,0.00,Ultima,assets/img/Ultima/Ventoxol-L 60ml Syrup.webp
+Ventoxol-LS,Drop,15ml,0.00,Ultima,assets/img/Ultima/Ventoxol-LS 15ml Drops.webp
+VenZolid,Dry Syrup,100mg,0.00,Ultima,assets/img/Ultima/VenZolid Dry Syrup 100mg.webp
+Voglivent-0-3 MD,Tablet,20x10,0.00,Ultima,assets/img/Ultima/Voglivent-0-3 MD 20x10 Tablets.webp
+Voglivent-MG3,Tablet,10x2x15,0.00,Ultima,assets/img/Ultima/Voglivent-MG3 10x2x15 Tablets.webp
+Xiotil-125mg,Dry Syrup,125mg,0.00,Ultima,assets/img/Ultima/Xiotil-125mg Dry Syrup.webp
+Zincominta,Syrup,200ml,0.00,Ultima,assets/img/Ultima/Zincominta 200ml Syrup.webp
+Zincominta-DT,Tablet,4x5x10,0.00,Ultima,assets/img/Ultima/Zincominta-DT 4x5x10 Tablets.webp
+Zithroset XL,Dry Syrup,100mg,0.00,Ultima,assets/img/Ultima/Zithroset XL Dry Syrup 100mg.webp
+Zithroset XL,Dry Syrup,200mg,0.00,Ultima,assets/img/Ultima/Zithroset XL Dry Syrup 200mg.webp
+Zyfix 100,Dry Syrup,30ml,0.00,Ultima,assets/img/Ultima/Zyfix 100 Dry Syrup 30ml.webp
+Zyfix 50,Dry Syrup,30ml,0.00,Ultima,assets/img/Ultima/Zyfix 50 Dry Syrup 30ml.webp
+Zyfix O,Dry Syrup,30ml,0.00,Ultima,assets/img/Ultima/Zyfix O Dry Syrup 30ml.webp
+Zyfix-0,Tablet,10x10,0.00,Ultima,assets/img/Ultima/Zyfix-0 10x10 Tablets.webp
+Zyfix-100,Tablet,20x10,0.00,Ultima,assets/img/Ultima/Zyfix-100 20x10 Tablets.webp
+Zyfix-100LB,Tablet,10x10,0.00,Ultima,assets/img/Ultima/Zyfix-100LB 10x10 Tablets.webp
+Zyfix-200,Tablet,10x1x10,0.00,Ultima,assets/img/Ultima/Zyfix-200 10x1x10 Tablets.webp
+Zyfix-200,Tablet,20x10,0.00,Ultima,assets/img/Ultima/Zyfix-200 20x10 Tablets.webp
+Zyfix-CV 325,Tablet,10x1x10,0.00,Ultima,assets/img/Ultima/Zyfix-CV 325 10x1x10 Tablets.webp
+
+--- ENTRIES NEEDING MANUAL REVIEW (MRP=0.00 or category=OTHER or packSize=UNKNOWN) ---
+  [Oravent] MRP missing | File: Oravent 15gm Cream.webp
+  [Oravent] MRP missing | File: Oravent 20x10 Tablets.webp
+  [Oravent-Plus] MRP missing | File: Oravent-Plus 5gm Cream.webp
+  [Xerominic] MRP missing, Pack size unknown | File: Xerominic Tablets (Pink).webp
+  [Acipox] MRP missing | File: Acipox 15gm Cream.webp
+  [Acipox- 400] MRP missing | File: Acipox- 400 10x10 Tablets.webp
+  [Acipox- 800] MRP missing, Category unknown | File: Acipox- 800 10x10 General.webp
+  [Actigrain-5] MRP missing | File: Actigrain-5 20x10 Tablets.webp
+  [Amlovent-5] MRP missing | File: Amlovent-5 20x14 Tablets.webp
+  [Apilactin Plus] MRP missing | File: Apilactin Plus 30ml Drops.webp
+  [Avizact] MRP missing, Pack size unknown | File: Avizact Injection.webp
+  [Bactofix-AZ] MRP missing | File: Bactofix-AZ 10x1x10 Tablets.webp
+  [Bactofix-O] MRP missing, Category unknown | File: Bactofix-O 30ml Tab.webp
+  [Bactofix-o] MRP missing | File: Bactofix-o 30ml Dry Syrup.webp
+  [Bactopraz S 1] MRP missing | File: Bactopraz S 1 5 gm  Injection.webp
+  [Bilotra] MRP missing | File: Bilotra 60ml Oral Solution.webp
+  [BILOTRA-40] MRP missing | File: BILOTRA-40 10x1x10 Tablets.webp
+  [BISOVENT 2.5] MRP missing | File: BISOVENT 2.5 tablets 20x10.webp
+  [Bisovent-5] MRP missing | File: Bisovent-5 20x10 Tablets.webp
+  [Buderon 10x5x2ml] MRP missing | File: Buderon 10x5x2ml Respules.webp
+  [Buderon F] MRP missing | File: Buderon F  Respules 4x5x2ml.webp
+  [Candivent-B] MRP missing | File: Candivent-B 15gm Cream.webp
+  [Capilate-P] MRP missing | File: Capilate-P 30gm Cream.webp
+  [Cilarol-20] MRP missing | File: Cilarol-20 20x10 Tablets.webp
+  [Clarilite] MRP missing | File: Clarilite Cream 15gm Cream.webp
+  [Clindarol-300] MRP missing | File: Clindarol-300 10x1x10 Capsules.webp
+  [Clobevent] MRP missing | File: Clobevent 15gm Cream.webp
+  [Clopivent-75] MRP missing | File: Clopivent-75 10x10 Tablets.webp
+  [Clopivent-A 150] MRP missing | File: Clopivent-A 150 10x10 Capsules.webp
+  [Coligut-L] MRP missing | File: Coligut-L Capsule 10x1x10.webp
+  [Coligut-L] MRP missing | File: Coligut-L Dry Syrup 30ml.webp
+  [Colivent] MRP missing | File: Colivent 30ml Drop.webp
+  [Daophage-500] MRP missing | File: Daophage-500 10x2x5 Tablets.webp
+  [Daophage-SR-1000 20x10Tablets] MRP missing | File: Daophage-SR-1000 20x10Tablets.webp
+  [Dermovent-5] MRP missing | File: Dermovent-5 15gm Cream.webp
+  [Dilustone 30 N] MRP missing | File: Dilustone 30 N Capsules.webp
+  [Doloride-Cold] MRP missing | File: Doloride-Cold 20x10 Tablets.webp
+  [Doloride-P] MRP missing | File: Doloride-P 20x10 Tablets.webp
+  [Dolosaid-MP] MRP missing | File: Dolosaid-MP 60ml Suspension.webp
+  [Dolosaid-MP DS] MRP missing | File: Dolosaid-MP DS 60ml Suspension.webp
+  [Dolosaid-P] MRP missing | File: Dolosaid-P Syrup 60ml.webp
+  [Dolosaid-RAB SR] MRP missing | File: Dolosaid-RAB SR 10x1x10 Capsules.webp
+  [Dolosaid-Sp] MRP missing | File: Dolosaid-Sp 20x10 Tablets.webp
+  [Donacortil-Tm] MRP missing | File: Donacortil-Tm 10x1x10 Capsules.webp
+  [Doxivent-Lb] MRP missing | File: Doxivent-Lb 20x10 Capsules.webp
+  [Duosma] MRP missing | File: Duosma Respules 4x5x2 5 ml.webp
+  [Eminta-PLUS] MRP missing | File: Eminta-PLUS 10x1x10 Capsules.webp
+  [Esovent DSR] MRP missing | File: Esovent DSR Capsules 10x1x10.webp
+  [Esovent IT] MRP missing | File: Esovent IT 10x10 Tablets.webp
+  [Esovent-Lsr] MRP missing | File: Esovent-Lsr 10x1x10 Capsules.webp
+  [Farogard-200] MRP missing | File: Farogard-200 10x1x6 Tablets.webp
+  [Farogrd] MRP missing | File: Farogrd Dry Syrup 30ml.webp
+  [Fepadol-120] MRP missing | File: Fepadol-120 60ml Syrup.webp
+  [Fepadol-125 Susp 60ml] MRP missing, Category unknown | File: Fepadol-125 Susp 60ml.webp
+  [Fepadol-240] MRP missing | File: Fepadol-240 60ml Syrup.webp
+  [Ferivent Inj 100mg-5ml 5x1x5ml] MRP missing, Category unknown | File: Ferivent Inj 100mg-5ml 5x1x5ml.webp
+  [Ferivent-Z] MRP missing | File: Ferivent-Z 10x2x15 Capsules.webp
+  [Flupress-20 10x2x15caps] MRP missing | File: Flupress-20 10x2x15caps Capsules.webp
+  [Flutigra] MRP missing | File: Flutigra Respules for Inhalation 10x5x2ml.webp
+  [Gabavent-300] MRP missing | File: Gabavent-300 10x10 Capsules.webp
+  [Gasfiz Raft] MRP missing | File: Gasfiz Raft 150ml Syrup.webp
+  [Gastovent-Dsr] MRP missing | File: Gastovent-Dsr 20x10 Capsules.webp
+  [Gastovent-Lsr] MRP missing | File: Gastovent-Lsr 10x1x10 Capsules.webp
+  [Glipra-1] MRP missing | File: Glipra-1 10x10 Tablets.webp
+  [Glipra-2] MRP missing | File: Glipra-2 10x10 Tablets.webp
+  [Ibuvent-Plus] MRP missing | File: Ibuvent-Plus 20x20 Tablets.webp
+  [Indovent-25] MRP missing | File: Indovent-25 20x10 Capsules.webp
+  [Indovent-Sr] MRP missing | File: Indovent-Sr 20x10 Capsules.webp
+  [Insta Play] MRP missing | File: Insta Play Condom Chocolate Extra Dotted 48x3N.webp
+  [Insta Play] MRP missing | File: Insta Play Condom Chocolate Ultra Thin 3N.webp
+  [Insta Play] MRP missing | File: Insta Play Condom Chocolate Ultra Thin 48x3N.webp
+  [Insta Play] MRP missing | File: Insta Play Condom Strawberry Extra Dotted 48x3N.webp
+  [Insta Play] MRP missing, Pack size unknown | File: Insta Play Condom Strawberry Extra Dotted.webp
+  [Insta Play 48x1x3n] MRP missing | File: Insta Play 48x1x3n Condom.webp
+  [Insta Play Strawberry Extra Time] MRP missing | File: Insta Play Strawberry Extra Time Condom 3N.webp
+  [Insta Play Strawberry Extra Time] MRP missing | File: Insta Play Strawberry Extra Time Condom 48x3N.webp
+  [Insta Play Strawberry Ultra Thin] MRP missing, Pack size unknown | File: Insta Play Strawberry Ultra Thin  Condom.webp
+  [Itromax-100] MRP missing | File: Itromax-100 10x1x10 Capsules.webp
+  [Itromax-200] MRP missing | File: Itromax-200 10x1x10 Capsules.webp
+  [Itromax-SB-130mg] MRP missing | File: Itromax-SB-130mg 10x1x10 Capsules.webp
+  [Itromax-SB-65mg] MRP missing | File: Itromax-SB-65mg 10x1x10 Capsules.webp
+  [Ketojet] MRP missing | File: Ketojet 75g Soap.webp
+  [Levotramine-PLUS] MRP missing | File: Levotramine-PLUS 20x10 Tablets.webp
+  [Lipivent-40mg] MRP missing | File: Lipivent-40mg 8x5x10 Tablets.webp
+  [Lipivent-Gold 10] MRP missing | File: Lipivent-Gold 10 10x15 Capsules.webp
+  [Lipivent-Gold 20] MRP missing | File: Lipivent-Gold 20 10x15 Capsules.webp
+  [Losaride-50] MRP missing | File: Losaride-50 20x10 Tablets.webp
+  [Losaride-AM] MRP missing | File: Losaride-AM 2x5x10 Tablets.webp
+  [Lulinaz spary 30ml] MRP missing | File: Lulinaz spary 30ml.webp
+  [Megadron 16] MRP missing | File: Megadron 16 20x14 Tablets.webp
+  [METHOCORT] MRP missing | File: METHOCORT 500mg Injecton.webp
+  [Methocort] MRP missing | File: Methocort 2ml Injection 02.webp
+  [Montiride FXA] MRP missing | File: Montiride FXA Tablets 10X1X10.webp
+  [Montiride-FXA] MRP missing | File: Montiride-FXA 10x10 Tablets.webp
+  [MOXILANTA CV] MRP missing | File: MOXILANTA CV Droper 10ml.webp
+  [Moxilanta-250] MRP missing | File: Moxilanta-250 10x3x10  Capsules.webp
+  [Moxilanta-500] MRP missing | File: Moxilanta-500 10x3x10  Capsules.webp
+  [Moxilanta-CV 228.5] MRP missing | File: Moxilanta-CV 228.5 10x1x10 Tablets.webp
+  [Moxilanta-CV 228.5] MRP missing | File: Moxilanta-CV 228.5 Dry Syrup 30ml.webp
+  [Moxilanta-CV 375] MRP missing | File: Moxilanta-CV 375 10x1x10 Tablets.webp
+  [Moxilanta-CV 457] MRP missing | File: Moxilanta-CV 457 10x1x10 Tablets.webp
+  [Moxilanta-CV 457] MRP missing | File: Moxilanta-CV 457 Dry Syrup 30ml.webp
+  [Moxilanta-CV 625] MRP missing | File: Moxilanta-CV 625 10x1x10 Tablets.webp
+  [Moxilanta-CV 625] MRP missing | File: Moxilanta-CV 625 10x1x6 Tablets.webp
+  [Mylabion] MRP missing | File: Mylabion 10x1x10 Capsules.webp
+  [Mylabion] MRP missing | File: Mylabion 200ml Syrup.webp
+  [Mylabion] MRP missing | File: Mylabion Syrup 100 ml.webp
+  [Mylabion-Plus] MRP missing | File: Mylabion-Plus 5x1x10 Capsules.webp
+  [Natadol-50mg] MRP missing | File: Natadol-50mg 10x1x10 Tablets.webp
+  [Oftirol-200] MRP missing, Pack size unknown | File: Oftirol-200 Syrup Bottal.webp
+  [Oftirol-M] MRP missing | File: Oftirol-M 30ml Syrup.webp
+  [Oftirol-M] MRP missing | File: Oftirol-M 60ml Syrup.webp
+  [Oftirol-OZ] MRP missing | File: Oftirol-OZ Tablets 20x10.webp
+  [Omefiz] MRP missing | File: Omefiz 20x15 Capsules.webp
+  [Omefiz-D] MRP missing | File: Omefiz-D 20x15 Capsules.webp
+  [Omiup] MRP missing | File: Omiup 20x15 Capsules.webp
+  [Omiup-D] MRP missing | File: Omiup-D 20x15 Capsules.webp
+  [Ondilium] MRP missing | File: Ondilium 30ml Drop.webp
+  [Oravent] MRP missing | File: Oravent 20x10 Tablets.webp
+  [Pantoraz-40] MRP missing | File: Pantoraz-40 20x15 Tablets.webp
+  [Pantoraz-D] MRP missing | File: Pantoraz-D 20x15 Tablets.webp
+  [Pantovent-Dsr] MRP missing | File: Pantovent-Dsr 20x10 Capsules.webp
+  [Pantovent-Lsr] MRP missing | File: Pantovent-Lsr 10x1x10 Capsules.webp
+  [Phylobron] MRP missing | File: Phylobron 10x10 Capsules.webp
+  [Piptavent] MRP missing | File: Piptavent 1.125 mg Injection.webp
+  [Piptavent] MRP missing | File: Piptavent 1.125mg Injection.webp
+  [Pregavent 75mg] MRP missing | File: Pregavent 75mg 10x10 Capsules.webp
+  [Pregavent-300] MRP missing | File: Pregavent-300 10x15 Capsules.webp
+  [Pregavent-D 75-20] MRP missing | File: Pregavent-D 75-20 10x10 Capsules.webp
+  [Pregavent-M] MRP missing | File: Pregavent-M 10x1x10 Capsules.webp
+  [Proditil] MRP missing | File: Proditil Drops 10ml.webp
+  [Proditil CV 100+62.5] MRP missing | File: Proditil CV 100+62.5 10x1x10 Dry Syrup.webp
+  [Proditil CV 100+62.5] MRP missing | File: Proditil CV 100+62.5 10x1x10 Tablets.webp
+  [Proditil-100] MRP missing | File: Proditil-100 30ml Dry Syrup.webp
+  [Proditil-50] MRP missing | File: Proditil-50 30ml Dry Syrup.webp
+  [Proditil-CV] MRP missing | File: Proditil-CV Dry Syrup 30ml.webp
+  [Protiminta (Chocolate)] MRP missing, Category unknown, Pack size unknown | File: Protiminta (Chocolate).webp
+  [Ranilium-O Combipack] MRP missing, Pack size unknown | File: Ranilium-O Combipack Injection.webp
+  [Rejuvital Gold] MRP missing | File: Rejuvital Gold Capsules 10x1x10.webp
+  [Rejuvital-EYE] MRP missing | File: Rejuvital-EYE 10x1x10 Capsules.webp
+  [Rifavent 400] MRP missing | File: Rifavent 400 20x10 Tablets.webp
+  [Rozucard-Gold] MRP missing | File: Rozucard-Gold 10x1x10 Capsules.webp
+  [Rozucard-Gold-20] MRP missing | File: Rozucard-Gold-20 10x1x10 Capsules.webp
+  [Salazomax 500mg] MRP missing | File: Salazomax 500mg 10x2x10 Tablets.webp
+  [Sildostat-8] MRP missing | File: Sildostat-8 10x1x10 Capsules.webp
+  [Sildostat-D8] MRP missing | File: Sildostat-D8 10x1x10 Capsules.webp
+  [Sinovent] MRP missing | File: Sinovent 10ml Spray.webp
+  [Sinovent] MRP missing | File: Sinovent 60ml Syrup.webp
+  [Sinovent Vapor] MRP missing | File: Sinovent Vapor 20x10 Capsules.webp
+  [Sinovent-Rub 25g] MRP missing | File: Sinovent-Rub 25g.webp
+  [Skinbloom] MRP missing, Pack size unknown | File: Skinbloom Facewash.webp
+  [Skinbloom 24x1x15gm] MRP missing | File: Skinbloom 24x1x15gm Cream.webp
+  [Spapmovent] MRP missing | File: Spapmovent 60ml Suspension.webp
+  [Spasmovent] MRP missing | File: Spasmovent Drop 10ml.webp
+  [Sporivent-BD 375] MRP missing | File: Sporivent-BD 375 10x10 Tablets.webp
+  [Telirol-Am] MRP missing | File: Telirol-Am 20x10 Tablets.webp
+  [Terbiride] MRP missing | File: Terbiride Cream 15g.webp
+  [Thyrovent 100mcg] MRP missing | File: Thyrovent 100mcg 10x100 Tablets.webp
+  [Thyrovent 25mcg] MRP missing | File: Thyrovent 25mcg 10x100 Tablets.webp
+  [Thyrovent 50mcg] MRP missing | File: Thyrovent 50mcg 10x100 Tablets.webp
+  [Thyrovent 75mcg] MRP missing | File: Thyrovent 75mcg 10x100 Tablets.webp
+  [Torigesic-Plus] MRP missing | File: Torigesic-Plus 5x3x15 Tablets.webp
+  [Tusston] MRP missing | File: Tusston 35x10 Lozenges.webp
+  [Tusston Cough] MRP missing | File: Tusston Cough 12x10 Lozenges.webp
+  [Uriride-0-4mg] MRP missing | File: Uriride-0-4mg 10x20 Capsules.webp
+  [Uriride-D] MRP missing | File: Uriride-D 10x1x15 Capsules.webp
+  [Utispas-OF] MRP missing | File: Utispas-OF 10x10 Tablets.webp
+  [Ventimox CV] MRP missing | File: Ventimox CV 1.2gm Injection.webp
+  [Ventimox CV 3-3g] MRP missing | File: Ventimox CV 3-3g Dry Syrup 30ml.webp
+  [Ventimox CV DS] MRP missing | File: Ventimox CV DS Dry Syrup 30ml.webp
+  [Ventimox- CV 457] MRP missing | File: Ventimox- CV 457 Dry Syrup 30ML.webp
+  [Ventimox-125DT] MRP missing | File: Ventimox-125DT 20x10 Tabletes.webp
+  [Ventimox-250mg] MRP missing | File: Ventimox-250mg 10x3x10 Capsules.webp
+  [Ventimox-500] MRP missing | File: Ventimox-500 10x2x10 Capsules.webp
+  [Ventimox-Cv] MRP missing | File: Ventimox-Cv 10ml Drop.webp
+  [Ventimox-CV 1000] MRP missing | File: Ventimox-CV 1000 Tablet 10x1x10.webp
+  [Ventimox-CV 2-2gm] MRP missing | File: Ventimox-CV 2-2gm Droper 10ml.webp
+  [Ventimox-CV 228-5] MRP missing | File: Ventimox-CV 228-5 10x1x6 Tablets.webp
+  [Ventimox-CV 375] MRP missing | File: Ventimox-CV 375 10x1x10 Tablets.webp
+  [Ventocal D3] MRP missing, Pack size unknown | File: Ventocal D3 Softgel Capsules.webp
+  [Ventocal Joints] MRP missing | File: Ventocal Joints Softgel 10x1x10 Capsules.webp
+  [Ventokast-Lc] MRP missing | File: Ventokast-Lc 20x1x10 Tablets.webp
+  [Ventokast-LC Junior] MRP missing | File: Ventokast-LC Junior 20x10 Tablets.webp
+  [Ventomycin 12gm-30ml] MRP missing, Category unknown | File: Ventomycin 12gm-30ml.webp
+  [Ventomycin DS 12gm-30ml] MRP missing, Category unknown | File: Ventomycin DS 12gm-30ml.webp
+  [VentoPlex-L] MRP missing | File: VentoPlex-L Syrup 100ml.webp
+  [VentoPlex-L] MRP missing | File: VentoPlex-L Syrup 200ml.webp
+  [Ventoran] MRP missing | File: Ventoran 10g Pain-Gel single.webp
+  [VENTORAN 2X PAIN] MRP missing | File: VENTORAN 2X PAIN SPRAY 35G.webp
+  [Ventoran MR] MRP missing | File: Ventoran MR 20x10 Tablets.webp
+  [Ventoran-P] MRP missing | File: Ventoran-P 10x2x10 Tablets Yellow PVC.webp
+  [Ventoran-P] MRP missing | File: Ventoran-P 10x2x10 Tablets.webp
+  [Ventoxol-L] MRP missing | File: Ventoxol-L 60ml Syrup.webp
+  [Ventoxol-LS] MRP missing | File: Ventoxol-LS 15ml Drops.webp
+  [VenZolid] MRP missing | File: VenZolid Dry Syrup 100mg.webp
+  [Voglivent-0-3 MD] MRP missing | File: Voglivent-0-3 MD 20x10 Tablets.webp
+  [Voglivent-MG3] MRP missing | File: Voglivent-MG3 10x2x15 Tablets.webp
+  [Xiotil-125mg] MRP missing | File: Xiotil-125mg Dry Syrup.webp
+  [Zincominta] MRP missing | File: Zincominta 200ml Syrup.webp
+  [Zincominta-DT] MRP missing | File: Zincominta-DT 4x5x10 Tablets.webp
+  [Zithroset XL] MRP missing | File: Zithroset XL Dry Syrup 100mg.webp
+  [Zithroset XL] MRP missing | File: Zithroset XL Dry Syrup 200mg.webp
+  [Zyfix 100] MRP missing | File: Zyfix 100 Dry Syrup 30ml.webp
+  [Zyfix 50] MRP missing | File: Zyfix 50 Dry Syrup 30ml.webp
+  [Zyfix O] MRP missing | File: Zyfix O Dry Syrup 30ml.webp
+  [Zyfix-0] MRP missing | File: Zyfix-0 10x10 Tablets.webp
+  [Zyfix-100] MRP missing | File: Zyfix-100 20x10 Tablets.webp
+  [Zyfix-100LB] MRP missing | File: Zyfix-100LB 10x10 Tablets.webp
+  [Zyfix-200] MRP missing | File: Zyfix-200 10x1x10 Tablets.webp
+  [Zyfix-200] MRP missing | File: Zyfix-200 20x10 Tablets.webp
+  [Zyfix-CV 325] MRP missing | File: Zyfix-CV 325 10x1x10 Tablets.webp
