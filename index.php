@@ -107,7 +107,7 @@ include 'includes/header.php';
           <i class="fas fa-chart-pie"></i>
         </div>
         <div class="feature-content">
-          <h4>Diverse</h4>
+          <h4>Diverse-1</h4>
           <p>Product Portfolio</p>
         </div>
       </div>
