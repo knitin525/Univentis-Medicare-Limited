@@ -194,7 +194,7 @@ include 'includes/header.php';
             <i class="fas fa-file-pdf text-danger me-2"></i>Official Catalogues Available
           </span>
           <h2 class="excellence-title text-white fw-bold mb-3">
-            Healthcare Excellence?
+            Ready to Experience Healthcare Excellence?
           </h2>
           <p class="excellence-desc text-white-50 mb-0">
             Explore our comprehensive range of generic pharmaceutical formulations. Download the official, updated
