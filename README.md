@@ -1,1 +1,1 @@
-Pharma Cutical comapny website git initial commit hlo ji kaise ho ..0
+Pharma Cutical comapny website git initial.
