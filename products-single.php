@@ -9,7 +9,7 @@ include 'includes/header.php';
   <div class="container">
     <div class="mb-4">
       <a href="products.php" class="text-decoration-none text-teal fw-semibold"><i
-          class="fas fa-arrow-left me-2"></i>Back to Products</a>
+          class="fas fa-arrow-left me-2"></i>Bac k to Products</a>
     </div>
 
     <div class="product-spotlight-hero">

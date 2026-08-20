@@ -177,6 +177,7 @@ include 'includes/header.php';
         </h2>
         <p class="stat-text">Employees</p>
       </div>
+
     </div>
   </div>
 </section>
