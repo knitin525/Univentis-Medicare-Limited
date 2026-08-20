@@ -144,7 +144,7 @@ include 'includes/header.php';
 <section class="stats-section py-5 mt-5">
   <div class="container text-center py-4">
     <h2 class="h2 dark-blue-text font-weight-light mb-3">
-      Our Scale at a Glance
+      Our Scale at a 
     </h2>
     <p class="text-muted mb-5">
       A growing distribution footprint, a broad product range, and a
