@@ -9,12 +9,12 @@ require_once __DIR__ . '/config.php';
 <html lang="en">
 <head>
     <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-LVWML7NEK2"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-MVPFBK3Q58"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
-      gtag('config', 'G-LVWML7NEK2');
+      gtag('config', 'G-MVPFBK3Q58');
     </script>
 
     <?php include __DIR__ . '/meta.php'; ?>
