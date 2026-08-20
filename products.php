@@ -218,7 +218,7 @@ include 'includes/header.php';
                     <div class="pdf-details text-white-50 small">Format: PDF | Size: ~107 MB</div>
                   </div>
                 </div>
-                <a href="https://github.com/knitin525/Univentis-Medicare-Limited/raw/master/Catalogue/univentis.pdf" target="_blank"
+                <a href="Catalogue/univentis.pdf" target="_blank"
                   class="btn btn-excellence-download w-100 py-3 rounded-3">
                   <span class="me-2">Open Univentis Catalogue</span>
                   <i class="fas fa-external-link-alt"></i>
@@ -240,7 +240,7 @@ include 'includes/header.php';
                     <div class="pdf-details text-white-50 small">Format: PDF | Size: ~53 MB</div>
                   </div>
                 </div>
-                <a href="https://github.com/knitin525/Univentis-Medicare-Limited/raw/master/Catalogue/innoventis.pdf" target="_blank"
+                <a href="Catalogue/innoventis.pdf" target="_blank"
                   class="btn btn-excellence-download w-100 py-3 rounded-3">
                   <span class="me-2">Open Innoventis Catalogue</span>
                   <i class="fas fa-external-link-alt"></i>
